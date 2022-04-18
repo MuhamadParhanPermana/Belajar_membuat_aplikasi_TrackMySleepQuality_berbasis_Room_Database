@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Farhan/AndroidStudioProjects/TrackMySleepQuality/app/src/main/res/drawable/ic_sleep_0.xml" value="0.1935" />
+        <entry key="..\:/Users/Farhan/AndroidStudioProjects/TrackMySleepQuality/app/src/main/res/drawable/ic_sleep_1.xml" value="0.1935" />
+        <entry key="..\:/Users/Farhan/AndroidStudioProjects/TrackMySleepQuality/app/src/main/res/drawable/ic_sleep_2.xml" value="0.1935" />
+        <entry key="..\:/Users/Farhan/AndroidStudioProjects/TrackMySleepQuality/app/src/main/res/drawable/ic_sleep_3.xml" value="0.1935" />
+        <entry key="..\:/Users/Farhan/AndroidStudioProjects/TrackMySleepQuality/app/src/main/res/drawable/ic_sleep_4.xml" value="0.1935" />
+        <entry key="..\:/Users/Farhan/AndroidStudioProjects/TrackMySleepQuality/app/src/main/res/drawable/ic_sleep_5.xml" value="0.1935" />
+        <entry key="..\:/Users/Farhan/AndroidStudioProjects/TrackMySleepQuality/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Farhan/AndroidStudioProjects/TrackMySleepQuality/app/src/main/res/layout/fragment_sleep_quality.xml" value="0.18568840579710144" />
+        <entry key="..\:/Users/Farhan/AndroidStudioProjects/TrackMySleepQuality/app/src/main/res/layout/fragment_sleep_tracker.xml" value="0.18568840579710144" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
