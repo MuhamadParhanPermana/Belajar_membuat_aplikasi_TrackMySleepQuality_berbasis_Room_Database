@@ -35,4 +35,7 @@
 
     <!-- Toast to play after Clear button has been pressed -->
     <string name="cleared_message">All your data is gone forever.</string>
+    <string name="seconds_length">seconds</string>
+    <string name="minutes_length">minutes</string>
+    <string name="hours_length">hours</string>
 </resources>
